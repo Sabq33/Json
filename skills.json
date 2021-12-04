@@ -1,0 +1,10 @@
+{
+    "Skills":{
+        "Testing":["Manual Testing","Test cases, plans and suits","Defects and Bug tracking"],
+        "Database Management": "MySQL",
+        "Tools":["Postman","Charles","Fiddler","Jmeter"],
+        "Reading":["Http","CSS","JS"],
+        "Terminal":"Linux",
+        "Structure":["Json","XML"]
+    }
+}
